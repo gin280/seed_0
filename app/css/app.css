@@ -1,0 +1,9 @@
+/* line 3, ../sass/app.scss */
+body {
+  background-color: cyan;
+}
+
+/* line 7, ../sass/app.scss */
+.container {
+  width: 960px;
+}
